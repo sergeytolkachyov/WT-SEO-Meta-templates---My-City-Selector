@@ -4,4 +4,5 @@ Plugin-provider of the multi-regionality component (city selection) MyCitySelect
 **For this plugin to work, you need to install the main plugin WT SEO Meta templates**
 
 My City Selector Joomla Component on GitHub - https://github.com/joomx/mycityselector
+
 Documentation https://web-tolk.ru/en/dev/joomla-plugins/wt-seo-meta-templates-my-city-selector.html
